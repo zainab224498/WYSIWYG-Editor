@@ -24,7 +24,7 @@ const App: React.FC = () => {
 
     return (
         <div style={marginStyle}>
-            <h1 style={{textAlign: 'center', color: 'Highlight'}}>WYSIWYG Editor</h1>
+            <h1 style={{textAlign: 'center', color: '#4d4db5'}}>WYSIWYG Editor</h1>
             
             {/* Controlled Mode */}
             <h2 style={{color:'#6d6df7'}}>Controlled Mode</h2>
